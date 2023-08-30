@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Power BI project aims to enhance the efficiency of marketing campaigns.
+This Power BI project aims to enhance the efficiency of marketing campaigns. It provides insights on marketing campaign performance, including acceptance rates and purchase numbers. It also presents income and spending trends based on day, education level, and quarter. Furthermore, it includes data on complaints per education level and the average income.
 
 
 ## Background
